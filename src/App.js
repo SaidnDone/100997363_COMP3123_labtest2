@@ -1,6 +1,5 @@
-// src/App.js
 import React from 'react';
-import Weather from './components/Weather'; // Adjust the path based on your project structure
+import Weather from './components/Weather'; 
 import './App.css';
 
 function App() {
